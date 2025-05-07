@@ -1,6 +1,6 @@
 # Amir Hazmi's Portfolio Website
 
-![My Portfolio Preview](/https://amiryunos.github.io/portfolio/)
+[My Portfolio Preview](/https://amiryunos.github.io/portfolio/)
 
 A modern, responsive portfolio website showcasing my skills, projects, education, and professional experience. The site features an animated gradient background, smooth animations, and a clean, professional design.
 
