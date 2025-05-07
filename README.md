@@ -32,7 +32,7 @@ portfolio/
 ├── styles.css          # CSS styling
 ├── script.js           # JavaScript functionality
 └── README.md           # Project documentation
-\`\`\`
+\`\`\` 
 
 ## 💻 Installation and Setup
 
